@@ -1,0 +1,20 @@
+# Основные библиотеки
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Kolmogorov-Arnold Network
+pykan==0.2.4
+
+# Для работы с данными и визуализации
+numpy
+matplotlib
+scikit-learn
+tqdm
+Pillow
+
+# Для красивого вывода архитектуры моделей
+torchinfo
+
+# Дополнительно
+sympy==1.11.1
